@@ -3,7 +3,7 @@ A basic, beginner friendly RAG app for personalised study help.
 
 # Study Space
 
-Study Space is a RAG-based app that allows you to interact with your uploaded documents. You can:
+Study Space is a basic, beginner friendly RAG app for personalised study help that allows you to interact with your uploaded documents. You can:
 
 - Ask questions and get precise answers based on the document content.
 - Generate quizzes to test your knowledge.
@@ -48,11 +48,11 @@ pip install -r requirements.txt
 The app requires two API keys:
 
 1. **Cohere API Key**
-   - Visit [Cohere API Key Page](<Cohere_API_URL>)
+   - Visit [Cohere API Key Page](https://dashboard.cohere.com/api-keys)
    - Log in or sign up to generate your free API key.
 
 2. **Groq API Key**
-   - Visit [Groq API Key Page](<Groq_API_URL>)
+   - Visit [Groq API Key Page](https://console.groq.com/keys)
    - Log in or sign up to generate your free API key.
 
 Once you have both keys, do the following:
