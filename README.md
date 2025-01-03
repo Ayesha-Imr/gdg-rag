@@ -1,6 +1,3 @@
-# Study-Space-RAG-Demo-App
-A basic, beginner friendly RAG app for personalised study help.
-
 # Study Space
 
 Study Space is a basic, beginner friendly RAG app for personalised study help that allows you to interact with your uploaded documents. You can:
@@ -17,8 +14,8 @@ Follow these steps to set up and run the app:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/Ayesha-Imr/Study-Space-RAG-Demo-App.git
+cd Study-Space-RAG-Demo-App
 ```
 
 ### 2. Create and Activate a Virtual Environment
