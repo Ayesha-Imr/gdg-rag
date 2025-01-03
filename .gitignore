@@ -5,5 +5,5 @@ myenv
 __pycache__
 test.html
 uploaded_files
-content/*
+content\docs\nis past papers.pdf
 streamlit_app\uploaded_files
