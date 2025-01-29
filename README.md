@@ -9,7 +9,7 @@ Follow these steps to set up and run the app:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ayesha-Imr/gdg-RAG.git
+git clone https://github.com/Ayesha-Imr/gdg-rag.git
 cd gdg-RAG
 ```
 
@@ -61,10 +61,10 @@ GROQ_API_KEY="<your-groq-api-key>"
 
 ### 5. Run the App
 
-Navigate to the `streamlit-app` folder:
+Navigate to the `streamlit_app` folder:
 
 ```bash
-cd streamlit-app
+cd streamlit_app
 ```
 
 Run the app using the following command:
