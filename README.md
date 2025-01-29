@@ -1,11 +1,6 @@
-# Study Space
+# Retrieval Augmented Generation (RAG) App
 
-Study Space is a basic, beginner friendly RAG app for personalised study help that allows you to interact with your uploaded documents. You can:
-
-- Ask questions and get precise answers based on the document content.
-- Generate quizzes to test your knowledge.
-- Get MCQs to test your understanding.
-- Create flashcards for learning and revision.
+This is a basic, beginner friendly RAG app for personalised interaction with your uploaded documents. 
 
 ## Setup Instructions
 
@@ -14,8 +9,8 @@ Follow these steps to set up and run the app:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ayesha-Imr/Study-Space-RAG-Demo-App.git
-cd Study-Space-RAG-Demo-App
+git clone https://github.com/Ayesha-Imr/gdg-RAG.git
+cd gdg-RAG
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -80,7 +75,7 @@ streamlit run app.py
 
 ### 6. Access the App
 
-After running the command, Streamlit will provide a local URL. Open the URL in your browser to start using Study Space.
+After running the command, Streamlit will provide a local URL. Open the URL in your browser to start using the app.
 
 ---
 

@@ -1,9 +1,7 @@
 .env
 chroma_db
 chroma_db/*
-myenv
+venv
 __pycache__
-test.html
-uploaded_files
-content\docs\nis past papers.pdf
-streamlit_app\uploaded_files
+docs\*
+streamlit_app\uploaded_docs
